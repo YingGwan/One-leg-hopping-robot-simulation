@@ -9,4 +9,7 @@ User Guide:
 3. Get animation and plots.
 
 Snapshot:
+
+![Image text](HoppingRobot.jpg)
+
 ![Image text](Figures.jpg)
